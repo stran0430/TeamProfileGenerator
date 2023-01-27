@@ -37,8 +37,13 @@ THEN I exit the application, and the HTML is generated
 
 ## Visuals
 
+[demo.webm](https://user-images.githubusercontent.com/115510413/214991715-a7c64b7e-f1a5-4f3a-a8ed-94b76805fb03.webm)
 
-<
+
+img width="608" alt="nodesc" src="https://user-images.githubusercontent.com/115510413/213624875-7f437e6f-1a57-47bd-a38e-cad515b3a135.png">
+
+<img width="1440" alt="scresult" src="https://user-images.githubusercontent.com/115510413/213624877-4f2afbcd-ed1a-49c6-b874-7ba9e32cfafb.png">
+
 
 
 ---
